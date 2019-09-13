@@ -1,0 +1,11 @@
+---
+Checks:
+'
+*,
+-llvm-header-guard,
+-misc-definitions-in-headers,
+-readability-non-const-parameter
+'
+HeaderFilterRegex: '.*'
+...
+
